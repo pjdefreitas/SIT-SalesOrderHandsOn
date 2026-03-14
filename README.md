@@ -371,9 +371,7 @@ A proposta do hands-on também conecta com a visão da Lab2Learn de tornar temas
 
 - **LinkedIn Dante**: https://www.linkedin.com/in/leandrodante/
 - **Instagram Lab2Learn**: https://www.instagram.com/lab2learn.com.br
-- **LinkedIn Lab2Learn**: https://www.instagram.com/lab2learn.com.br
-
-> Observação: o link informado para “LinkedIn Lab2Learn” aponta para Instagram. Ajuste se quiser colocar o link correto da página no README.
+- **LinkedIn Lab2Learn**: https://www.linkedin.com/company/lab2learn-sap-btp/
 
 ---
 
