@@ -170,10 +170,21 @@ POST
 ```
 
 ### Headers
-
+key
 ```text
-Content-Type: application/json
-Authorization: Bearer [OPENAI_API_KEY]
+Content-Type
+```
+value
+```text
+application/json
+```
+key
+```text
+Authorization
+```
+valeu
+```text
+Bearer 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
 ```
 
 > **Importante:** nunca commitar a chave real da OpenAI no repositório.
