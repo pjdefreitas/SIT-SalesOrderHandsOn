@@ -284,7 +284,7 @@ Essa expressão pega o conteúdo gerado pelo modelo e converte o resultado para 
 A ação de envio por e-mail pode ser feita com a seguinte fórmula:
 
 ```text
-"mailto:leandro.dante@lab2dev.com?subject=" + ENCODE_URL_COMPONENT("Dante deu certo meu HandsOn!") + "&body=" + ENCODE_URL_COMPONENT(pageVars.mensagem)
+"mailto:leandro.dante@lab2dev.com?subject=" + ENCODE_FOR_URL("Dante deu certo meu HandsOn!") + "&body=" + ENCODE_FOR_URL(appVars.mailAI)
 ```
 
 ### Exemplo
